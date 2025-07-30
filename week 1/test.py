@@ -13,4 +13,4 @@ print(f"Difference: {difference_result}")
 print(f"Product: {product_result}")
 print(f"Quotient: {quotient_result}")
 
-print("n\Thank you for using the calculator!")
+print("\n Thank you for using the calculator!")
